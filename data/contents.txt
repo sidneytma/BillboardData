@@ -1,0 +1,4 @@
+Contents:
+- billboard_advanced.csv: all 2300 songs including audio feature data
+- billboard_basic.csv: all 2300 songs, not including audio feature data
+- wiki_songs.csv: Wikipedia titles for all 2300 songs
